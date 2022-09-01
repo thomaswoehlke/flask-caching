@@ -34,7 +34,7 @@ pytest==6.2.5
     # via
     #   -r tests.in
     #   pytest-xprocess
-pytest-xprocess==0.18.1
+pytest-xprocess==0.20.0
     # via -r tests.in
 redis==3.5.3
     # via -r tests.in
